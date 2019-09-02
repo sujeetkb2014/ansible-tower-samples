@@ -4,4 +4,7 @@
     - name: Hello Message
       debug:
         msg: "Hello World!"
+    - name: Starting with new Hello
+      debug:
+        msg: "Excellent"
 
